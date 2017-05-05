@@ -1,7 +1,7 @@
 <b>saml2-idp-certificate-updater</b>
 <br/>
 <br/>
-Scripted example utility to add a new certificate alias to an existing SAML2 IDP entity within ForgeRock Access Management 5.0, that use Amster.
+Scripted example utility to add a new certificate alias (specifically for signing) to an existing SAML2 IDP entity within ForgeRock Access Management 5.0, that use Amster.
 <br/>
 <br/>
 <b>Running: </b>
